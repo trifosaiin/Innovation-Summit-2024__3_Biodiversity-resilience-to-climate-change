@@ -6,7 +6,10 @@
 
  Success "Provocotive question"
 
-  **In what ways can monitoring and decision-making enhance biodiversity resilience to climate change?**
+  General: **In what ways can monitoring and decision-making enhance biodiversity resilience to climate change?**
+  Specific: 
+
+  decision-making: where to focus mgt, restoration, and conservation efforts
     
   **identify suitable biodiversity data soruces**
             leveraging long term data (e.g., LTER, LTAR, FIA, IMP - NPS inventory, BLM- AIM), including the long-term experiments, citizen science data
