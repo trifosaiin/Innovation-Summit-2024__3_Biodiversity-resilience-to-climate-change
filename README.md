@@ -14,7 +14,7 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 
 
 ## Group Members
-- Member 1: Brief description
+- Jen Kovacs: Associate Professor of Biology, Agnes Scott College, Evolutionary Ecologist [website](https://jkovacs.agnesscott.org/)
 - Member 2: Brief description
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
