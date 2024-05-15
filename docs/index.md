@@ -11,7 +11,7 @@
 
   decision-making: where to focus mgt, restoration, and conservation efforts
     
-    **identify suitable biodiversity data soruces**
+   **identify suitable biodiversity data soruces**
             leveraging long term data (e.g., LTER, LTAR, FIA, IMP - NPS inventory, BLM- AIM), including the long-term experiments, citizen science data
             bird breeding atlas
             what are the key climate variables as proxies of climate change?
