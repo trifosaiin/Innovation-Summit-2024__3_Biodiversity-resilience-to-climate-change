@@ -2,7 +2,7 @@
 
 # Blip Hunterz
 
-Welcome to the **BioFlex** repository, an integral part of ESIIL's 2024 Innovation Summit focused on big data for resilience and adaptation. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
+Welcome to the **Blip Hunterz** repository, an integral part of ESIIL's 2024 Innovation Summit focused on big data for resilience and adaptation. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
 
 ## Our Project
@@ -16,6 +16,7 @@ Our project aims to leverage long-term ecological data to better understand how 
 ## Group Members
 - Jen Kovacs: Associate Professor of Biology, Agnes Scott College, Evolutionary Ecologist, read more about my work [here](https://jkovacs.agnesscott.org/)
 - Greg Maurer: Environmental data scientist & data manager, New Mexico State University. [more here](https://greg.pronghorns.net)
+- Julia Portmann: 
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
 
