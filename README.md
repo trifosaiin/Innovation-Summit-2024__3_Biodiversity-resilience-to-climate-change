@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/800243545.svg)](https://zenodo.org/doi/10.5281/zenodo.11189031)
 
-# BioFlex
+# Blip Hunterz
 
 Welcome to the **BioFlex** repository, an integral part of ESIIL's 2024 Innovation Summit focused on big data for resilience and adaptation. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
