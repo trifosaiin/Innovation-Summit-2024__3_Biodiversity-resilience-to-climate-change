@@ -1,20 +1,20 @@
 [![DOI](https://zenodo.org/badge/800243545.svg)](https://zenodo.org/doi/10.5281/zenodo.11189031)
 
-# [Your Team Name]
+# BioFlex
 
-Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
+Welcome to the **BioFlex** repository, an integral part of ESIIL's 2024 Innovation Summit focused on big data for resilience and adaptation. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
-#practice edit
 
 ## Our Project
-[Provide a brief overview of your project here.
+Our project aims to leverage long-term ecological data to better understand how climate change affects biological resilience across ecosystems. Insights provided by that data can then be used to inform decision-making around ecological restoration with the aim of increasing resilience in those ecosystems. 
+
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
 
 
 ## Group Members
-- Jen Kovacs: Associate Professor of Biology, Agnes Scott College, Evolutionary Ecologist [website](https://jkovacs.agnesscott.org/)
+- Jen Kovacs: Associate Professor of Biology, Agnes Scott College, Evolutionary Ecologist, read more about my work [here](https://jkovacs.agnesscott.org/)
 - Member 2: Brief description
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
