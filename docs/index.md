@@ -2,7 +2,7 @@
 
 # Group 3 -- Biodiversity resilience to climate change 
 
-**Project Title: Bioflex**
+**Project Title: Blip Hunterz**
 
  Success "Provocotive question"
 
