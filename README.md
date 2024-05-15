@@ -17,7 +17,7 @@ Our project aims to leverage long-term ecological data to better understand how 
 - Jen Kovacs: Associate Professor of Biology, Agnes Scott College, Evolutionary Ecologist, read more about my work [here](https://jkovacs.agnesscott.org/)
 - Greg Maurer: Environmental data scientist & data manager, New Mexico State University. [more here](https://greg.pronghorns.net)
 - Julia Portmann: 
-- ...
+- Trifosa Simamora
 - [Link to more detailed bios or profiles if available and desired.]
 
 ## Code Repository Structure
