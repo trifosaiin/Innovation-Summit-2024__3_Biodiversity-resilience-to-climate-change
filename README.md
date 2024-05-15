@@ -15,7 +15,7 @@ Our project aims to leverage long-term ecological data to better understand how 
 
 ## Group Members
 - Jen Kovacs: Associate Professor of Biology, Agnes Scott College, Evolutionary Ecologist, read more about my work [here](https://jkovacs.agnesscott.org/)
-- Member 2: Brief description
+- Greg Maurer: Environmental data scientist & data manager, New Mexico State University. [more here](https://greg.pronghorns.net)
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
 
